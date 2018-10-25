@@ -1,0 +1,3 @@
+3.a) The program returns the largest number and also prints "NONE". Python returns "none" when a return value hasnt been specified.
+3.b) The program runs but does not display any prompt for number input
+3.c) The program returns "<function print_max at 0x0170C588>"

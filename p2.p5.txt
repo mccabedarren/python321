@@ -1,0 +1,5 @@
+(a) no segment is printed
+(b) no segment is printed
+(c) everything before entered number is printed
+(d) everything after entered number is printed
+(e) entire string is printed
